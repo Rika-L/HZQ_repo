@@ -1,0 +1,19 @@
+{
+  "name": "hzq_repo",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "dev:backend": "pnpm --filter backend dev",
+    "dev:frontend": "pnpm --filter frontend dev",
+    "lint": "eslint .",
+    "lint:fix": "eslint ./packages --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^4.2.0",
+    "eslint": "^9.20.1"
+  }
+}
