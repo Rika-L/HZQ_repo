@@ -1,0 +1,33 @@
+[
+  {
+    "chinese": "初",
+    "level": "一级字",
+    "stroke": 7,
+    "structure": "左右结构",
+    "radical": "衤",
+    "syllables": [
+      {
+        "spell": "chū",
+        "zhExplain": "开始时或原来的情况。",
+        "enExplain": "At the beginning or in the original situation",
+        "words": [
+          {
+            "zhWord": "初一",
+            "enWord": "New Year's Day",
+            "zhSentence": "到了十二点，大年初一了，街上响起鞭炮声。",
+            "enExplanation": "By midnight, the first day of the New Year, firecrackers sounded the street.",
+            "culture": "Chinese New Year's Eve"
+          },
+          {
+            "zhWord": "初始",
+            "enWord": "initial",
+            "zhSentence": "如果这是初始配置，则服务器不应该在运行。",
+            "enExplanation": "If this is the initial configuration, the server should not be running.",
+            "culture": ""
+          }
+        ]
+      }
+    ]
+  }
+]
+

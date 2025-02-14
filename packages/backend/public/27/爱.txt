@@ -1,0 +1,32 @@
+[
+  {
+    "chinese": "爱",
+    "level": "一级字",
+    "stroke": 13,
+    "structure": "上下结构",
+    "radical": "心",
+    "syllables": [
+      {
+        "spell": "ài",
+        "zhExplain": "对某人或某事物有深厚的感情。",
+        "enExplain": "to love, to be fond of",
+        "words": [
+          {
+            "zhWord": "爱情",
+            "enWord": "love",
+            "zhSentence": "他们的爱情故事感动了很多人。",
+            "enExplanation": "Their love story touched many people.",
+            "culture": "In Chinese culture, love stories like Chang'e flying to the moon are well-known and symbolize the longing for love."
+          },
+          {
+            "zhWord": "爱好",
+            "enWord": "hobby",
+            "zhSentence": "她的爱好是画画。",
+            "enExplanation": "Her hobby is painting.",
+            "culture": "Hobbies are an important part of personal culture and can reflect one's interests and passions."
+          }
+        ]
+      }
+    ]
+  }
+]

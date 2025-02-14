@@ -1,0 +1,30 @@
+{
+  "chinese": "风",
+  "level": "一级字",
+  "stroke": 4,
+  "structure": "单一结构",
+  "radical": "风",
+  "syllables": [
+    {
+      "spell": "fēng",
+      "zhExplain": "空气流动的现象、趋势、风格",
+      "enExplain": "air in motion, trend, style",
+      "words": [
+        {
+          "zhWord": "风格",
+          "enWord": "style",
+          "zhSentence": "他的作品具有独特的艺术风格。",
+          "enExplanation": "His works have a unique artistic style.",
+          "culture": "The concept of '风格' in Chinese culture values the distinctiveness and originality in art and design, reflecting the appreciation for creativity and individuality."
+        },
+        {
+          "zhWord": "风俗",
+          "enWord": "custom",
+          "zhSentence": "了解一个地方的风俗习惯很重要。",
+          "enExplanation": "It is important to understand the customs and habits of a place.",
+          "culture": "The term '风俗' embodies the cultural significance of traditions and local practices, which are integral to the diversity of Chinese cultural heritage."
+        }
+      ]
+    }
+  ]
+}

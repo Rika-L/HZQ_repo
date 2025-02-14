@@ -1,7 +1,17 @@
 import { serve } from '@hono/node-server'
+import { serveStatic } from '@hono/node-server/serve-static'
 import { Hono } from 'hono'
 
 const app = new Hono()
+
+app.get(
+  '/static/*',
+  serveStatic({
+    root: './',
+    rewriteRequestPath: path =>
+      path.replace(/^\/static/, '/public'),
+  }),
+)
 
 app.get('/', (c) => {
   return c.text('Hello Hono!')

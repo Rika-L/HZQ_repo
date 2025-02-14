@@ -1,0 +1,30 @@
+{
+  "chinese": "多",
+  "level": "一级字",
+  "stroke": 6,
+  "structure": "上下结构",
+  "radical": "夕",
+  "syllables": [
+    {
+      "spell": "duō",
+      "zhExplain": "数量大、许多、多样",
+      "enExplain": "many, a lot of, diverse",
+      "words": [
+        {
+          "zhWord": "多年",
+          "enWord": "many years",
+          "zhSentence": "他们在这个城市生活了很多年。",
+          "enExplanation": "They have lived in this city for many years.",
+          "culture": "The term '多年' captures the cultural significance of time and experience, often associated with wisdom and history."
+        },
+        {
+          "zhWord": "多样",
+          "enWord": "diversity",
+          "zhSentence": "我们应该保护生物多样性。",
+          "enExplanation": "We should protect biodiversity.",
+          "culture": "The concept of '多样' in Chinese culture values the variety of life and the importance of preserving different forms of existence."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "chinese": "菜",
+    "level": "一级字",
+    "stroke": 11,
+    "structure": "上下结构",
+    "radical": "艹",
+    "syllables": [
+      {
+        "spell": "cài",
+        "zhExplain": "供作副食品的植物或主食以外的食物。",
+        "enExplain": "A plant used as a staple food or food other than a staple food.",
+        "words": [
+          {
+            "zhWord": "蔬菜",
+            "enWord": "vegetable",
+            "zhSentence": "我们在市场上购买水果和蔬菜。",
+            "enExplanation": "We buy our fruit and vegetables at the market.",
+            "culture": "You must reap what you have sown."
+          },
+          {
+            "zhWord": "菜肴",
+            "enWord": "cooked food",
+            "zhSentence": "我很高兴能够尽兴地享用我最喜欢的菜肴。",
+            "enExplanation": "I was delighted to be able to eat my favourite dishes to my heart's content.",
+            "culture": "Sichuan cuisine"
+          }
+        ]
+      }
+    ]
+  }
+]
+```
+

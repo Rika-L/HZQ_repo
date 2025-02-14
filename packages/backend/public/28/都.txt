@@ -1,0 +1,39 @@
+[
+  {
+    "chinese": "都",
+    "level": "一级字",
+    "stroke": 10,
+    "structure": "左右结构",
+    "radical": "阝",
+    "syllables": [
+      {
+        "spell": "dū",
+        "zhExplain": "用于表示大城市、首都、都城等。",
+        "enExplain": "capital, city, metropolis",
+        "words": [
+          {
+            "zhWord": "首都",
+            "enWord": "capital",
+            "zhSentence": "中国的首都是北京。",
+            "enExplanation": "The capital of China is Beijing.",
+            "culture": "China's capital is home to many World Cultural Heritage sites, such as the Forbidden City, the Great Wall, and the Summer Palace."
+          }
+        ]
+      },
+      {
+        "spell": "dōu",
+        "zhExplain": "用作副词，表示全部、都。",
+        "enExplain": "all, entirely, altogether",
+        "words": [
+          {
+            "zhWord": "全都",
+            "enWord": "all",
+            "zhSentence": "这些苹果全都是我的。",
+            "enExplanation": "These apples are all mine.",
+            "culture": "In order for every country to develop better, China has been striving to build a community with a shared future for mankind."
+          }
+        ]
+      }
+    ]
+  }
+]

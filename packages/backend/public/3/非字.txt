@@ -1,0 +1,30 @@
+{
+  "chinese": "非",
+  "level": "一级字",
+  "stroke": 4,
+  "structure": "单一结构",
+  "radical": "非",
+  "syllables": [
+    {
+      "spell": "fēi",
+      "zhExplain": "不是、相反、否认",
+      "enExplain": "not, opposite, deny",
+      "words": [
+        {
+          "zhWord": "非常",
+          "enWord": "extremely",
+          "zhSentence": "这道菜非常美味。",
+          "enExplanation": "This dish is extremely delicious.",
+          "culture": "In Chinese culture, the word '非常' is often used to express a high degree of something, reflecting the richness of the language in conveying emphasis."
+        },
+        {
+          "zhWord": "非法",
+          "enWord": "illegal",
+          "zhSentence": "非法行为将受到法律的制裁。",
+          "enExplanation": "Illegal actions will be punished by law.",
+          "culture": "The term '非法' highlights the importance of law and order in society, a concept deeply rooted in Chinese legal culture."
+        }
+      ]
+    }
+  ]
+}

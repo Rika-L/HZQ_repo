@@ -1,0 +1,30 @@
+{
+  "chinese": "对",
+  "level": "一级字",
+  "stroke": 5,
+  "structure": "左右结构",
+  "radical": "又",
+  "syllables": [
+    {
+      "spell": "duì",
+      "zhExplain": "正确、合适、回答、配对",
+      "enExplain": "correct, suitable, answer, match",
+      "words": [
+        {
+          "zhWord": "对立",
+          "enWord": "opposition",
+          "zhSentence": "他们的立场完全对立。",
+          "enExplanation": "Their positions are completely in opposition.",
+          "culture": "The term '对立' represents the cultural understanding of conflicting views or interests, emphasizing the importance of harmony and balance in Chinese philosophy."
+        },
+        {
+          "zhWord": "对称",
+          "enWord": "symmetry",
+          "zhSentence": "这座建筑的设计风格是对称的。",
+          "enExplanation": "The architectural design of this building is symmetrical.",
+          "culture": "Symmetry in Chinese art and architecture reflects the cultural appreciation for balance and harmony."
+        }
+      ]
+    }
+  ]
+}

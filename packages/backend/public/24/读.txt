@@ -1,0 +1,32 @@
+[
+  {
+    "chinese": "读",
+    "level": "一级字",
+    "stroke": 10,
+    "structure": "左右结构",
+    "radical": "言",
+    "syllables": [
+      {
+        "spell": "dú",
+        "zhExplain": "表示阅读或说等含义。",
+        "enExplain": "to read, to speak",
+        "words": [
+          {
+            "zhWord": "读书",
+            "enWord": "read a book",
+            "zhSentence": "麦克很喜欢读书。",
+            "enExplanation": "Mike really enjoys reading books.",
+            "culture": "Confucius founded the Confucian school, which highly esteems reading."
+          },
+          {
+            "zhWord": "朗读",
+            "enWord": "read aloud",
+            "zhSentence": "朗读可以使人更有勇气。",
+            "enExplanation": "Reading aloud can make a person more courageous.",
+            "culture": "Almost every Chinese child is required to read aloud from 'The Standards for Being a Good Student and Child'."
+          }
+        ]
+      }
+    ]
+  }
+]

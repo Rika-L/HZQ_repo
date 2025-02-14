@@ -1,0 +1,43 @@
+[
+  {
+    "chinese": "得",
+    "level": "一级字",
+    "stroke": 11,
+    "structure": "左右结构",
+    "radical": "彳",
+    "syllables": [
+      {
+        "spell": "dé",
+        "zhExplain": "得到，获得。",
+        "enExplain": "get, obtain",
+        "words": [
+          {
+            "zhWord": "心得",
+            "enWord": "what one has learned from work, study, etc.",
+            "zhSentence": "学生先分头工作，然后六人一组交流心得。",
+            "enExplanation": "The students work individually, then pool their ideas in groups of six."
+          },
+          {
+            "zhWord": "得意洋洋",
+            "enWord": "exaltation",
+            "zhSentence": "他们得意洋洋地列队进入首都。",
+            "enExplanation": "They marched triumphantly into the capital."
+          }
+        ]
+      },
+      {
+        "spell": "děi",
+        "zhExplain": "必须，须要。",
+        "enExplain": "must, have to",
+        "words": [
+          {
+            "zhWord": "可得注意",
+            "enWord": "May be noted",
+            "zhSentence": "在走进爱猫人士的客厅的时候，大家可得注意了。",
+            "enExplanation": "Hide and seek: People should watch where they step in this cat-lover's living room."
+          }
+        ]
+      }
+    ]
+  }
+]

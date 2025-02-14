@@ -1,0 +1,34 @@
+[
+  {
+    "chinese": "春",
+    "level": "一级字",
+    "stroke": 9,
+    "structure": "上下结构",
+    "radical": "日",
+    "syllables": [
+      {
+        "spell": "chūn",
+        "zhExplain": "一年四季的第一季。",
+        "enExplain": "The first season of the year",
+        "words": [
+          {
+            "zhWord": "春季",
+            "enWord": "spring",
+            "zhSentence": "下一个春季选举即将来临。",
+            "enExplanation": "Next spring's elections are drawing closer.",
+            "culture": "Chinese New Year"
+          },
+          {
+            "zhWord": "春闱",
+            "enWord": "Imperial examination held in spring",
+            "zhSentence": "大壮今年要去参加春闱。",
+            "enExplanation": "Dazhuang is going to take part in the Spring exams this year.",
+            "culture": "imperial competitive examination"
+          }
+        ]
+      }
+    ]
+  }
+]
+```
+
