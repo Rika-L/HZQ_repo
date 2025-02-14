@@ -1,187 +1,120 @@
-<script setup lang="ts">
-import WeappTailwindcss from '@/components/WeappTailwindcss.vue'
-import { useCounterStore } from '@/stores/counter'
+<script lang="ts" setup>
+import data from '@/main.json'
 
-const store = useCounterStore()
-const { count } = storeToRefs(store)
-const { increment } = store
-const buttonColors = [
-  'bg-[#000]',
-  'bg-[#111]',
-  'bg-[#222]',
-  'bg-[#333]',
-  'bg-[#444]',
-  'bg-[#555]',
-  'bg-[#666]',
-  'bg-[#777]',
-  'bg-[#888]',
-  'bg-[#999]',
-  'bg-[#aaa]',
-  'bg-[#bbb]',
-  'bg-[#ccc]',
-  'bg-[#ddd]',
-  'bg-[#eee]',
-  'bg-[#fff]',
-]
-const title = ref('Hello')
-const themeRef = ref(uni.getSystemInfoSync().theme)
-const classArray = computed(() => [
-  title.value ? 'bg-[#aa00aa]' : undefined,
-  {
-    'text-[#ffffffee]': Boolean(title),
-  },
-])
-const buttonClass = computed(() => {
-  return buttonColors[count.value % buttonColors.length]
+const keyword = ref('') // 定义keyword变量
+const filteredData = ref(data) // 存储过滤后的数据
+let show = Boolean(false) // 定义show变量
+// 输入框按钮搜索触发
+function filterData() {
+  if (!keyword.value) {
+    filteredData.value = data // 如果keyword为空，重置数据
+  }
+  else {
+    filteredData.value = data.filter(item => item.chinese.includes(keyword.value)) // 过滤数据
+  }
+}
+// 监听keyword变化
+watchEffect(() => {
+  if (!keyword.value) {
+    filteredData.value = data
+    show = false
+  }
+  else {
+    show = true
+  }
 })
+// 删除所有写的内容
+function deleteData() {
+  keyword.value = ''
+  show = false
+}
 
-// #ifdef MP
-uni.onThemeChange(({ theme }: { theme: 'dark' | 'light' }) => {
-  themeRef.value = theme
-})
-// #endif
-onBeforeUnmount(() => {
-  // #ifdef MP
-  uni.offThemeChange(() => {
-    console.log('offThemeChange')
+// 跳转的界面函数
+function hdlTap(id: number) {
+  uni.navigateTo({
+    url: `/pages/word/word?index=${id}`,
   })
-  // #endif
-})
+}
 
-onLoad(() => {
-  console.log('欢迎使用 weapp-tailwindcss 模板')
-})
+function toCheck() {
+  uni.navigateTo({
+    url: '/pages/check/check',
+  })
+}
 
-function copy(data: string) {
-  uni.setClipboardData({
-    data,
+function toVoice() {
+  uni.navigateTo({
+    url: '/pages/voice/voice',
   })
 }
 </script>
 
 <template>
-  <view class="content">
-    <WeappTailwindcss />
-    <view class="my-3 w-full border-t border-solid border-gray-200" />
-    <view class="text-xl text-gray-600/95">
-      写法示例Start!
+  <view class="fixed left-0 top-0 -z-10 size-full backdrop-blur" />
+  <image src="/src/static/img/bg3.jpg" class="fixed left-0 top-0 -z-20 size-full" />
+  <div class=" relative ml-[97rpx] mt-[100rpx] flex">
+    <input v-model="keyword" type="text" class=" relative top-0 h-[70rpx] w-[430rpx] rounded-md bg-slate-200 pl-2 text-[26rpx] font-bold text-black opacity-75 shadow-inner shadow-[#888888]" placeholder="Please enter the Chinese" bindinput="inputChange" @confirm="filterData">
+    <view class=" absolute left-[457rpx] top-0 h-[70rpx] w-[110rpx] rounded-lg bg-inherit" @tap="filterData">
+      <div class=" size-full rounded-lg bg-slate-600 opacity-15" />
+      <text class=" absolute left-[6px] top-[18rpx] text-[26rpx] font-semibold">
+        Search
+      </text>
     </view>
-    <view class="mt-[13.14758px] flex flex-col items-center space-y-[20rpx]">
-      <view
-        class="flex h-16 w-32 items-center justify-center rounded-[20rpx] bg-[#389f2bb1] text-white after:content-['hover_here!']"
-        hover-class="!bg-[gray] after:!content-['good_work!']"
-      />
-      <view class="text-neutral-400">
-        group published 示例
+    <view v-show="show" class=" absolute left-[392rpx] top-[12rpx] flex size-[50rpx] opacity-40" hover-class="none" hover-stop-propagation="false" @tap="deleteData">
+      <img src="/src/static/icon/delete.png" alt="" class="size-[50rpx]">
+    </view>
+  </div>
+  <view class="my-2 px-[90rpx]">
+    <view class="mb-2 flex items-center justify-between rounded-[30rpx] bg-green-900/50 p-2 text-white" @tap="toCheck">
+      <view class="flex items-center gap-1">
+        <view>Favorite Folders</view>
+        <view class="i-mdi-favorite-box text-xl" />
       </view>
-      <view
-        class="group relative rounded bg-green-300 p-[60px] text-xs before:absolute before:left-1 before:top-1 before:content-['父元素']"
-        hover-class="published"
-      >
-        <view class="rounded bg-pink-400 p-2 group-[.published]:bg-yellow-400">
-          hover 父元素使得子元素背景变成黄色
-        </view>
+      <text class="i-mdi-arrow-right text-xl" />
+    </view>
+    <view class="flex flex-col gap-3 rounded-[30rpx] bg-green-900/50 p-2" @tap="toVoice">
+      <view class="flex items-center gap-1 text-white">
+        <view class="i-mdi-chat-question" /><text>小又</text>
       </view>
-
-      <view class="w-32 rounded-md bg-pink-500 py-2 text-center font-semibold text-white ring-4 ring-pink-300">
-        Default Ring
+      <view class="p-px text-xs text-white">
+        What is the meaning of "家"?
       </view>
-      <view>
-        <button class="w-64 text-white" :class="buttonClass" @click="increment">
-          click here to inc {{ count }}
-        </button>
+      <view class="p-px text-xs text-white">
+        How to learn Chinese?
       </view>
-
-      <view class="test">
-        @apply 的用法，详见 `index.vue` 的 `style` 标签块
-      </view>
-      <view class="text-neutral-600 underline" @click="copy('https://weapp-tw.icebreaker.top/docs/icons')">
-        Grid布局+ Icon 方案（点击复制链接）
-      </view>
-      <view
-        class="grid w-[80vw] grid-cols-3 place-items-center border text-center [&>view]:w-full [&>view]:py-1 [&_text]:text-[32px]"
-      >
-        <view :class="classArray">
-          <text class="i-svg-spinners-12-dots-scale-rotate" />
-        </view>
-        <view><text class="i-svg-spinners-180-ring" /></view>
-        <view :class="classArray">
-          <text class="i-svg-spinners-3-dots-bounce" />
-        </view>
-        <view>
-          <text class="i-svg-spinners-6-dots-rotate" />
-        </view>
-        <view :class="classArray">
-          <text class="i-svg-spinners-90-ring" />
-        </view>
-        <view>
-          <text class="i-svg-spinners-bars-fade" />
-        </view>
-        <view :class="classArray">
-          <text class="i-svg-spinners-blocks-scale" />
-        </view>
-        <view>
-          <text class="i-svg-spinners-clock" />
-        </view>
-        <view :class="classArray">
-          <text class="i-svg-spinners-tadpole" />
-        </view>
-      </view>
-      <view>
-        <view class="mb-4 text-neutral-400">
-          样式的条件编译
-          <text
-            class="text-sky-400 underline" @click="
-              copy(
-                'https://weapp-tw.icebreaker.top/docs/quick-start/uni-app-css-macro',
-              )
-            "
-          >
-            weapp-tailwindcss/css-macro
-          </text>
-        </view>
-        <view class="ifdef-[MP-WEIXIN]:bg-blue-500 ifndef-[MP-WEIXIN]:bg-red-500">
-          微信小程序为蓝色，不是微信小程序为红色
-        </view>
-
-        <view class="wx:bg-blue-500 -wx:bg-red-500">
-          <view>自定义配置的方式进行样式条件编译</view>
-          <view>相关配置见根目录下的tailwind.config.js</view>
-        </view>
-
-        <view class="apply-class-0">
-          @apply 条件编译方式0
-        </view>
-        <view class="apply-class-1">
-          @apply 条件编译方式1
-        </view>
-      </view>
-      <view>
-        <button class="btn">
-          此样式定义详见 `App.vue` 的 `@layer` 部分
-        </button>
+      <view class="p-px text-right text-xs text-white">
+        Try to talk with AI Helper >
       </view>
     </view>
   </view>
+  <scroll-view
+    class=" absolute ml-[79rpx] mt-[10rpx] flex h-[1100rpx] w-full flex-wrap " scroll-x="false" scroll-y="true"
+  >
+    <view
+      v-for="item in filteredData"
+      :key="item.id"
+      class=" relative left-[20rpx] mt-[30rpx] h-[150rpx] w-[580rpx] rounded-[30rpx] border-none bg-inherit"
+      @tap="hdlTap(item.id)"
+    >
+      <div class="absolute h-full w-[550rpx] rounded-[30rpx] bg-slate-700/50" />
+      <div class=" absolute left-[20rpx] top-[15rpx] size-[120rpx] rounded-[30rpx] bg-gray-200 opacity-75">
+        <text class=" flex items-center justify-center text-[90rpx]" selectable="false" space="false" decode="false">
+          {{ item.chinese }}
+        </text>
+      </div>
+      <view class=" absolute left-[203rpx] top-[-15rpx] mt-[28rpx] flex flex-col items-center justify-center text-[30rpx]">
+        <view>Level:{{ item.level }}</view>
+        <view>Stroke:{{ item.stroke }}</view>
+        <view>
+          spell:
+          <template v-if="item.syllables.length === 1">
+            {{ item.syllables[0].spell }}
+          </template>
+          <template v-else>
+            {{ item.syllables.map(syllable => syllable.spell).join('; ') }}
+          </template>
+        </view>
+      </view>
+    </view>
+  </scroll-view>
 </template>
-
-<style lang="scss" scoped>
-.content {
-  @apply flex flex-col items-center py-4;
-}
-
-.test {
-  @apply flex text-center h-[100px] w-[222.222px] items-center justify-center rounded-[40px] bg-[#123456] bg-opacity-[0.54] text-[#ffffff] #{!important};
-}
-
-.apply-class-0 {
-  // 依赖 weapp-tailwindcss/css-macro
-  @apply ifdef-[MP-WEIXIN]:bg-blue-500 ifndef-[MP-WEIXIN]:bg-red-500;
-}
-
-.apply-class-1 {
-  // 依赖 weapp-tailwindcss/css-macro
-  // 这个需要在 tailwind.config.js 里进行自定义配置
-  @apply wx:bg-blue-500 -wx:bg-red-500;
-}
-</style>

@@ -1,0 +1,1056 @@
+[
+  {
+    "id": 0,
+    "chinese": "风",
+    "level": "First-level word",
+    "stroke": 4,
+    "structure": "Single structure",
+    "radical": "风",
+    "syllables": [
+      {
+        "spell": "fēng",
+        "zhExplain": "空气流动的现象、趋势、风格",
+        "enExplain": "air in motion, trend, style",
+        "words": [
+          {
+            "zhWord": "风格",
+            "enWord": "style",
+            "zhSentence": "他的作品具有独特的艺术风格。",
+            "enExplanation": "His works have a unique artistic style.",
+            "culture": "The concept of '风格' in Chinese culture values the distinctiveness and originality in art and design, reflecting the appreciation for creativity and individuality."
+          },
+          {
+            "zhWord": "风俗",
+            "enWord": "custom",
+            "zhSentence": "了解一个地方的风俗习惯很重要。",
+            "enExplanation": "It is important to understand the customs and habits of a place.",
+            "culture": "The term '风俗' embodies the cultural significance of traditions and local practices, which are integral to the diversity of Chinese cultural heritage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "chinese": "多",
+    "level": "First-level word",
+    "stroke": 6,
+    "structure": "Up and down structure",
+    "radical": "夕",
+    "syllables": [
+      {
+        "spell": "duō",
+        "zhExplain": "数量大、许多、多样",
+        "enExplain": "many, a lot of, diverse",
+        "words": [
+          {
+            "zhWord": "多年",
+            "enWord": "many years",
+            "zhSentence": "他们在这个城市生活了很多年。",
+            "enExplanation": "They have lived in this city for many years.",
+            "culture": "The term '多年' captures the cultural significance of time and experience, often associated with wisdom and history."
+          },
+          {
+            "zhWord": "多样",
+            "enWord": "diversity",
+            "zhSentence": "我们应该保护生物多样性。",
+            "enExplanation": "We should protect biodiversity.",
+            "culture": "The concept of '多样' in Chinese culture values the variety of life and the importance of preserving different forms of existence."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chinese": "对",
+    "level": "First-level word",
+    "stroke": 5,
+    "structure": "Left and right structure",
+    "radical": "又",
+    "syllables": [
+      {
+        "spell": "duì",
+        "zhExplain": "正确、合适、回答、配对",
+        "enExplain": "correct, suitable, answer, match",
+        "words": [
+          {
+            "zhWord": "对立",
+            "enWord": "opposition",
+            "zhSentence": "他们的立场完全对立。",
+            "enExplanation": "Their positions are completely in opposition.",
+            "culture": "The term '对立' represents the cultural understanding of conflicting views or interests, emphasizing the importance of harmony and balance in Chinese philosophy."
+          },
+          {
+            "zhWord": "对称",
+            "enWord": "symmetry",
+            "zhSentence": "这座建筑的设计风格是对称的。",
+            "enExplanation": "The architectural design of this building is symmetrical.",
+            "culture": "Symmetry in Chinese art and architecture reflects the cultural appreciation for balance and harmony."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chinese": "非",
+    "level": "First-level word",
+    "stroke": 8,
+    "structure": "Single structure",
+    "radical": "非",
+    "syllables": [
+      {
+        "spell": "fēi",
+        "zhExplain": "不是、相反、否认",
+        "enExplain": "not, opposite, deny",
+        "words": [
+          {
+            "zhWord": "非常",
+            "enWord": "extremely",
+            "zhSentence": "这道菜非常美味。",
+            "enExplanation": "This dish is extremely delicious.",
+            "culture": "In Chinese culture, the word '非常' is often used to express a high degree of something, reflecting the richness of the language in conveying emphasis."
+          },
+          {
+            "zhWord": "非法",
+            "enWord": "illegal",
+            "zhSentence": "非法行为将受到法律的制裁。",
+            "enExplanation": "Illegal actions will be punished by law.",
+            "culture": "The term '非法' highlights the importance of law and order in society, a concept deeply rooted in Chinese legal culture."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chinese": "彩",
+    "level": "First-level word",
+    "stroke": 11,
+    "structure": "Left and right structure",
+    "radical": "彡",
+    "syllables": [
+      {
+        "spell": "cǎi",
+        "zhExplain": "各种颜色的交织；赌博或某种竞赛中赢得的东西；称赞、夸奖的欢呼声",
+        "enExplain": "Interweaving of various colors; Something won in gambling or some kind of competition; Praise, cheers of praise",
+        "words": [
+          {
+            "zhWord": "彩色",
+            "enWord": "color",
+            "zhSentence": "画彩色图画。",
+            "enExplanation": "Draw colored pictures.",
+            "culture": "在现代艺术中，彩色的使用可以极大地丰富作品的表现力。"
+          },
+          {
+            "zhWord": "彩蛋",
+            "enWord": "Easter egg",
+            "zhSentence": "今年的彩蛋很让人惊喜。",
+            "enExplanation": "This year's Easter eggs are very surprising.",
+            "culture": "彩蛋通常与复活节相关，象征着新生和希望。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chinese": "菜",
+    "level": "First-level word",
+    "stroke": 11,
+    "structure": "Up and down structure",
+    "radical": "艹",
+    "syllables": [
+      {
+        "spell": "cài",
+        "zhExplain": "供作副食品的植物或主食以外的食物。",
+        "enExplain": "A plant used as a staple food or food other than a staple food.",
+        "words": [
+          {
+            "zhWord": "蔬菜",
+            "enWord": "vegetable",
+            "zhSentence": "我们在市场上购买水果和蔬菜。",
+            "enExplanation": "We buy our fruit and vegetables at the market.",
+            "culture": "You must reap what you have sown."
+          },
+          {
+            "zhWord": "菜肴",
+            "enWord": "cooked food",
+            "zhSentence": "我很高兴能够尽兴地享用我最喜欢的菜肴。",
+            "enExplanation": "I was delighted to be able to eat my favourite dishes to my heart's content.",
+            "culture": "Sichuan cuisine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chinese": "初",
+    "level": "First-level word",
+    "stroke": 7,
+    "structure": "Left and right structure",
+    "radical": "衤",
+    "syllables": [
+      {
+        "spell": "chū",
+        "zhExplain": "开始时或原来的情况。",
+        "enExplain": "At the beginning or in the original situation",
+        "words": [
+          {
+            "zhWord": "初一",
+            "enWord": "New Year's Day",
+            "zhSentence": "到了十二点，大年初一了，街上响起鞭炮声。",
+            "enExplanation": "By midnight, the first day of the New Year, firecrackers sounded the street.",
+            "culture": "Chinese New Year's Eve"
+          },
+          {
+            "zhWord": "初始",
+            "enWord": "initial",
+            "zhSentence": "如果这是初始配置，则服务器不应该在运行。",
+            "enExplanation": "If this is the initial configuration, the server should not be running.",
+            "culture": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chinese": "春",
+    "level": "First-level word",
+    "stroke": 9,
+    "structure": "Up and down structure",
+    "radical": "日",
+    "syllables": [
+      {
+        "spell": "chūn",
+        "zhExplain": "一年四季的第一季。",
+        "enExplain": "The first season of the year",
+        "words": [
+          {
+            "zhWord": "春季",
+            "enWord": "spring",
+            "zhSentence": "下一个春季选举即将来临。",
+            "enExplanation": "Next spring's elections are drawing closer.",
+            "culture": "Chinese New Year"
+          },
+          {
+            "zhWord": "春闱",
+            "enWord": "Imperial examination held in spring",
+            "zhSentence": "大壮今年要去参加春闱。",
+            "enExplanation": "Dazhuang is going to take part in the Spring exams this year.",
+            "culture": "imperial competitive examination"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chinese": "得",
+    "level": "First-level word",
+    "stroke": 11,
+    "structure": "Left and right structure",
+    "radical": "彳",
+    "syllables": [
+      {
+        "spell": "dé",
+        "zhExplain": "得到，获得。",
+        "enExplain": "get, obtain",
+        "words": [
+          {
+            "zhWord": "心得",
+            "enWord": "what one has learned from work, study, etc.",
+            "zhSentence": "学生先分头工作，然后六人一组交流心得。",
+            "enExplanation": "The students work individually, then pool their ideas in groups of six."
+          },
+          {
+            "zhWord": "得意洋洋",
+            "enWord": "exaltation",
+            "zhSentence": "他们得意洋洋地列队进入首都。",
+            "enExplanation": "They marched triumphantly into the capital."
+          }
+        ]
+      },
+      {
+        "spell": "děi",
+        "zhExplain": "必须，须要。",
+        "enExplain": "must, have to",
+        "words": [
+          {
+            "zhWord": "可得注意",
+            "enWord": "May be noted",
+            "zhSentence": "在走进爱猫人士的客厅的时候，大家可得注意了。",
+            "enExplanation": "Hide and seek: People should watch where they step in this cat-lover's living room."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "chinese": "的",
+    "level": "First-level word",
+    "stroke": 8,
+    "structure": "Left and right structure",
+    "radical": "白",
+    "syllables": [
+      {
+        "spell": "de",
+        "zhExplain": "表示所属关系。",
+        "enExplain": "can be translate as 'of', 's', or sometimes it’s not directly translated and the context is adjusted to fit English grammar.",
+        "words": [
+          {
+            "zhWord": "中国的水稻",
+            "enWord": "the rice of Chinese",
+            "zhSentence": "中国的水稻很好吃。",
+            "enExplanation": "The rice of Chinese is very delicious.",
+            "culture": "The father of hybrid rice in China, Yuan Longping, successfully developed super hybrid rice, making a significant contribution to global food security."
+          },
+          {
+            "zhWord": "美丽的",
+            "enWord": "beautiful",
+            "zhSentence": "这是一个美丽的地方。",
+            "enExplanation": "This is a beautiful place.",
+            "culture": "The four great beauties of ancient China are Xi Shi, Wang Zhaojun, Diao Chan, and Yang Guifei."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "chinese": "否",
+    "level": "First-level word",
+    "stroke": 7,
+    "structure": "Up and down structure",
+    "radical": "口",
+    "syllables": [
+      {
+        "spell": "fǒu",
+        "zhExplain": "对某事的不认同",
+        "enExplain": "To disagree with something.",
+        "words": [
+          {
+            "zhWord": "否定",
+            "enWord": "To deny the existence or authenticity of things.",
+            "zhSentence": "我们不能轻易地否定别人的努力和成就。",
+            "enExplanation": "We cannot easily deny the efforts and achievements of others.",
+            "culture": "In Chinese culture, this is equivalent to 'no'."
+          },
+          {
+            "zhWord": "否则",
+            "enWord": "This is a transitional word. If you did it, you will face some problems.",
+            "zhSentence": "你必须按时完成任务，否则会受到惩罚。",
+            "enExplanation": "You must complete the task on time, otherwise you will be punished.",
+            "culture": "In Chinese culture, the use of this word means that sentences contain causal structures. This word is often followed by negative outcomes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "chinese": "福",
+    "level": "First-level word",
+    "stroke": 13,
+    "structure": "Left and right structure",
+    "radical": "礻",
+    "syllables": [
+      {
+        "spell": "fú",
+        "zhExplain": "幸福；好的机遇",
+        "enExplain": "Happiness; Good opportunity",
+        "words": [
+          {
+            "zhWord": "幸福",
+            "enWord": "You are satisfied with everything in your life.",
+            "zhSentence": "在这个小镇上，居民们过着幸福安宁的生活，充满了温馨和满足。",
+            "enExplanation": "In this small town, residents live a happy and peaceful life, filled with warmth and satisfaction.",
+            "culture": "In Chinese culture, '幸福' represents being very satisfied with everything around you and making you feel happy."
+          },
+          {
+            "zhWord": "福气",
+            "enWord": "Good luck.",
+            "zhSentence": "大家都说，她是个有福气的人，总是能遇到好事。",
+            "enExplanation": "Everyone says she is a lucky person who always encounters good things.",
+            "culture": "In Chinese culture, '福气' means that you are a lucky person who can do things smoothly and smoothly."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "chinese": "富",
+    "level": "First-level word",
+    "stroke": 12,
+    "structure": "Up and down structure",
+    "radical": "宀",
+    "syllables": [
+      {
+        "spell": "fù",
+        "zhExplain": "很有钱；多。",
+        "enExplain": "Very rich; various",
+        "words": [
+          {
+            "zhWord": "富有",
+            "enWord": "It uses to describe people who has a lot of money.",
+            "zhSentence": "尽管他出生在一个贫穷的家庭，但他凭借自己的努力，最终变得非常富有。",
+            "enExplanation": "Despite being born into a poor family, he eventually became very wealthy through his own efforts.",
+            "culture": "In Chinese culture, '富有' is used to describe a person, expressing that their family is very wealthy."
+          },
+          {
+            "zhWord": "丰富",
+            "enWord": "This refers to a large variety or quantity of material wealth, knowledge and experience.",
+            "zhSentence": "他是一个经验非常丰富的人。",
+            "enExplanation": "He is a very experienced person.",
+            "culture": "In Chinese culture, '丰富' can not only modify people or things, but also serve as a verb. For example, '通过广泛的阅读，他丰富了自己的知识储备。' means that 'through extensive reading, he enriched his knowledge reserve'."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "chinese": "歌",
+    "level": "First-level word",
+    "stroke": 14,
+    "structure": "Left and right structure",
+    "radical": "欠",
+    "syllables": [
+      {
+        "spell": "gē",
+        "zhExplain": "1.咏唱。2.歌曲。3.歌颂；赞美。",
+        "enExplain": "1. Sing. 2. Songs. 3. Praise.",
+        "words": [
+          {
+            "zhWord": "唱歌",
+            "enWord": "Sing according to the melody.",
+            "zhSentence": "让我们一起来唱一首歌！",
+            "enExplanation": "Let us sing a song together.",
+            "culture": "In Chinese culture, '唱歌' refers to everyone singing the lyrics of a song along with the rhythm."
+          },
+          {
+            "zhWord": "歌曲",
+            "enWord": "Literary works for singing are a combination of poetry and music.",
+            "zhSentence": "我们在聚会上一起合唱了那首经典的歌曲。",
+            "enExplanation": "We sang that classic song together at the party.",
+            "culture": "In Chinese culture, '歌曲' is different from music in that it is meant for people to sing, with melody and lyrics."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "chinese": "好",
+    "level": "First-level word",
+    "stroke": 6,
+    "structure": "Left and right structure",
+    "radical": "女",
+    "syllables": [
+      {
+        "spell": "hǎo",
+        "zhExplain": "表示赞同、满意或表示事物的优良品质。",
+        "enExplain": "good, well, fine",
+        "words": [
+          {
+            "zhWord": "友好",
+            "enWord": "friendly",
+            "zhSentence": "他们对新邻居非常友好。",
+            "enExplanation": "They are very friendly to their new neighbors.",
+            "culture": "Good-neighborliness and friendly in diversity have always been the fundamental spirit and fine tradition that the Chinese nation practices in its foreign interactions. For instance, during the Han Dynasty, Zhang Qian was sent twice to the Western Regions, and Chinese fleets reached India and Sri Lanka for trade exchanges. The Tang Dynasty was very active in foreign exchanges, establishing friendly relations with more than seventy countries."
+          },
+          {
+            "zhWord": "好吃",
+            "enWord": "delicious",
+            "zhSentence": "这道菜非常好吃。",
+            "enExplanation": "This dish is very delicious.",
+            "culture": "In China, the culinary culture is very rich; in the West, gourmet food is also highly valued. People experience and understand different cultures by tasting the cuisines from various countries, such as getting to know Chinese culture through tasting Chinese dishes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "chinese": "和",
+    "level": "First-level word",
+    "stroke": 8,
+    "structure": "Left and right structure",
+    "radical": "禾",
+    "syllables": [
+      {
+        "spell": "hé",
+        "zhExplain": "平静、协调、和谐，也可以指温和、柔软。",
+        "enExplain": "harmony, peace, gentle",
+        "words": [
+          {
+            "zhWord": "和谐",
+            "enWord": "harmony",
+            "zhSentence": "这个社区以其居民之间的和谐而闻名。",
+            "enExplanation": "The community is known for the harmony among its residents.",
+            "culture": "The concept of 'harmony' is central to Chinese philosophy and is often reflected in social interactions and artistic expressions."
+          },
+          {
+            "zhWord": "和气",
+            "enWord": "amicable",
+            "zhSentence": "他总是和气待人，因此很受大家欢迎。",
+            "enExplanation": "He is always amicable and therefore well-liked by everyone.",
+            "culture": "Amicability is valued in Chinese culture as it contributes to a harmonious social environment, which is considered essential for a peaceful life."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "chinese": "红",
+    "level": "First-level word",
+    "stroke": 6,
+    "structure": "Left and right structure",
+    "radical": "纟",
+    "syllables": [
+      {
+        "spell": "hóng",
+        "zhExplain": "代表红色，象征喜庆和成功。",
+        "enExplain": "The color red, symbolizing celebration and success.",
+        "words": [
+          {
+            "zhWord": "红色",
+            "enWord": "red",
+            "zhSentence": "她穿着一件红色连衣裙。",
+            "enExplanation": "She wore a red dress.",
+            "culture": "In Chinese culture, red is associated with happiness and good luck."
+          },
+          {
+            "zhWord": "红火",
+            "enWord": "flourishing",
+            "zhSentence": "这家餐厅很红火。",
+            "enExplanation": "The restaurant is thriving.",
+            "culture": "A flourishing business in Chinese context implies prosperity and success."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "chinese": "话",
+    "level": "First-level word",
+    "stroke": 8,
+    "structure": "Left and right structure",
+    "radical": "讠",
+    "syllables": [
+      {
+        "spell": "huà",
+        "zhExplain": "①说出来的能表达思想感情的声音，亦指把这种声音记录下来的文字；②说，谈论",
+        "enExplain": "①The spoken words that express thoughts and feelings, also referring to the written words that record such sounds; ②Speak, talk.",
+        "words": [
+          {
+            "zhWord": "说话",
+            "enWord": "talk,speak",
+            "zhSentence": "他们正在校园里说话。",
+            "enExplanation": "They are talking in the campus.",
+            "culture": "Chinese people use euphemistic language when they speak, such as their house is called 'humble house'."
+          },
+          {
+            "zhWord": "神话",
+            "enWord": "mythic",
+            "zhSentence": "中国有很多神话故事。",
+            "enExplanation": "There are many mythological stories in China.",
+            "culture": "In China, there are mythological stories such as Nuwa mending the sky, Pangu opening the sky and Jingwei reclaiming the sea."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "chinese": "活",
+    "level": "First-level word",
+    "stroke": 9,
+    "structure": "Left and right structure",
+    "radical": "氵",
+    "syllables": [
+      {
+        "spell": "huó",
+        "zhExplain": "①生存，有生命的，能生长，与“死”相对；②救活，使人活；③在活的状态下；④逼真地；⑤不固定，可移动，或处在进去状态的；⑥生动，不呆板，机灵，有生气；⑦工作或生产品；",
+        "enExplain": "①To live, to be alive, to grow, as opposed to death; ②Resuscitation, so that people live; ③In a living state; ④ Realistically; ⑤Not fixed, movable, or in a state of entry; ⑥ Vivid, not stiff, clever, lively; ⑦ Work or produce products;",
+        "words": [
+          {
+            "zhWord": "活动",
+            "enWord": "activity",
+            "zhSentence": "过春节的时候有很多活动。",
+            "enExplanation": "There are many activities during the Spring Festival.",
+            "culture": "Chinese New Year activities include having a family reunion dinner, Posting couplets, setting off firecrackers and so on."
+          },
+          {
+            "zhWord": "生活",
+            "enWord": "life",
+            "zhSentence": "人人都能大幅提高生活质量。",
+            "enExplanation": "Everyone can greatly improve the quality of life.",
+            "culture": "Chinese people have the habit of drinking tea in their daily life."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "chinese": "火",
+    "level": "First-level word",
+    "stroke": 4,
+    "structure": "Single structure",
+    "radical": "火",
+    "syllables": [
+      {
+        "spell": "huǒ",
+        "zhExplain": "①燃烧，物质燃烧时所发出的光和焰；②紧急；③指枪炮弹药等；④发怒，怒气；⑤中医指发炎、红肿、烦躁等的病因；⑥形容红色的；⑦古代军队组织，一火十个人；⑧姓。",
+        "enExplain": "①flame, the light and flame emitted by a burning substance;②urgent;③referring to firearms, ammunition, etc.;④anger, anger;⑤in traditional Chinese medicine, the cause of inflammation, redness, irritability, etc.;⑥describing something red;⑦an ancient military organization, one fire for ten people;⑧a surname.",
+        "words": [
+          {
+            "zhWord": "火药",
+            "enWord": "gunpowder",
+            "zhSentence": "战争的时候经常会用到火药。",
+            "enExplanation": "Fireworks are often used during wars.",
+            "culture": "Gunpowder is one of the four great inventions of China."
+          },
+          {
+            "zhWord": "火焰",
+            "enWord": "flame",
+            "zhSentence": "爱是生命的火焰，没有它，一切变得黑暗。",
+            "enExplanation": "Love is the flame of life, without it, everything is dark.",
+            "culture": "Making iron flowers is a Chinese intangible cultural heritage technique."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "chinese": "家",
+    "level": "First-level word",
+    "stroke": 10,
+    "structure": "Up and down structure",
+    "radical": "宀",
+    "syllables": [
+      {
+        "spell": "jiā",
+        "zhExplain": "①共同生活的眷属和他们所住的地方；②家庭所在的地方；居住；③对人称自己的尊长、亲属；④家里养的，不是野生的；⑤经营某种行业的人家或有某种身份的人家；⑥掌握某种专门学识或有丰富实践经验及从事某种专门活动的人；⑦学术流派；⑧量词，用于计算家庭或企业；⑨姓。",
+        "enExplain": "The family members who live together and the place where they live; ② Where the family lives; To reside; To call themselves elders and relatives; ④ Domesticated, not wild; ⑤ People in a certain profession or in a certain position;⑥A person who has mastered certain specialized knowledge or has rich practical experience and engages in certain specialized activities; ⑦ Academic schools; ⑧ Quantifiers, used to calculate households or businesses; Last name.",
+        "words": [
+          {
+            "zhWord": "儒家",
+            "enWord": "the Confucianists",
+            "zhSentence": "儒家重视道德教化的思想对后世影响很大。",
+            "enExplanation": "Confucianism attaches great importance to moral education and has great influence on later generations.",
+            "culture": "Confucian culture is an important component of traditional Chinese culture."
+          },
+          {
+            "zhWord": "家庭",
+            "enWord": "family",
+            "zhSentence": "我们生活在一个有爱的大家庭里。",
+            "enExplanation": "We live in a big family with love.",
+            "culture": "Chinese people attach importance to family education and cultivate children's correct attitude."
+          }
+        ]
+      },
+      {
+        "spell": "jia",
+        "zhExplain": "①词尾，指一类的人；②用在男人的名字或排行后面，指他的妻；",
+        "enExplain": "The end of the word refers to a class of people; ② Used after a man's name or rank to refer to his wife;",
+        "words": [
+          {
+            "zhWord": "老人家",
+            "enWord": "Old man",
+            "zhSentence": "老人家应该受到关心和照顾。",
+            "enExplanation": "Old people should be cared for and taken care of.",
+            "culture": "Respecting the old and caring for the young has always been one of the basic moral norms in traditional Chinese society. Old people are seen as symbols of wisdom and experience, while young people are seen as hope for the future. Therefore, respecting the elderly and caring for children have become the traditional virtues of many Chinese people."
+          }
+        ]
+      },
+      {
+        "spell": "jie",
+        "zhExplain": "词尾，同“价”；",
+        "enExplain": "The end of the word is the same as 'price';",
+        "words": [
+          {
+            "zhWord": "整天家",
+            "enWord": "Stay home all day long",
+            "zhSentence": "他整天家学习。",
+            "enExplanation": "He stayed home all day studying.",
+            "culture": "Know the meaning of the word. Oracle bone inscriptions, with the word 'one' (mian) above, represent and Home related, below is 'pig', that is, pig. Low ancient productivity Next, people often raise pigs in the house, so there are pigs in the house Their logo. Original meaning: house, residence."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chinese": "看",
+    "level": "First-level word",
+    "stroke": 9,
+    "structure": "Up and down structure",
+    "radical": "目",
+    "syllables": [
+      {
+        "spell": "kàn",
+        "zhExplain": "①使视线接触人或物；②阅读；③观察并加以判断；④访问，看望；⑤对待；⑥诊治；⑦照料；⑧小心，注意；⑨依靠",
+        "enExplain": "①see; look at; watch; ②read; ③think; consider; observe; judge; ④call on; visit; see; ⑤look upon; regard; ⑥treat(a patient or an illness); ⑦look after; ⑧mind; watch out; ⑨depend on",
+        "words": [
+          {
+            "zhWord": "观看",
+            "enWord": "see",
+            "zhSentence": "同学们聚集在操场上观看篮球比赛。",
+            "enExplanation": "The students gathered on the playground to watch the basketball game.",
+            "culture": "Don't look at the monk, but at the Buddha's face. This idiom means to help or forgive someone because of the face of a third party."
+          }
+        ]
+      },
+      {
+        "spell": "kān",
+        "zhExplain": "守护，监视",
+        "enExplain": "Watch over",
+        "words": [
+          {
+            "zhWord": "看护",
+            "enWord": "look after",
+            "zhSentence": "请在公共场合看护好您的孩子。",
+            "enExplanation": "Please keep an eye on your child in public."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "chinese": "可",
+    "level": "First-level word",
+    "stroke": 5,
+    "structure": "Semi-enclosed structure",
+    "radical": "口",
+    "syllables": [
+      {
+        "spell": "kě",
+        "zhExplain": "①同意；②可能；许可；能够；③值得；④适合；⑤表示转折",
+        "enExplain": "①approve;②can;may;③need(doing);be worth(doing);④fit;suit;⑤but",
+        "words": [
+          {
+            "zhWord": "可能",
+            "enWord": "may",
+            "zhSentence": "今天可能会下雨。",
+            "enExplanation": "It might rain today."
+          }
+        ]
+      },
+      {
+        "spell": "kè",
+        "zhExplain": "①[可汗]中国古代鲜卑、突厥、回纥、蒙古等族君主的称号。",
+        "enExplain": "[Khan] The title of the monarch of Xianbei, Tujue, Ouigour, Mongolia and other ethnic groups in ancient China.",
+        "words": [
+          {
+            "zhWord": "可汗",
+            "enWord": "khan",
+            "zhSentence": "可汗是中国古代部分少数名族的君主。",
+            "enExplanation": "Khan was the monarch of some minority ethnic groups in ancient China.",
+            "culture": "In 1980, a large number of Qarakhanid coins were discovered in Atush County (now Atush City), Xinjiang. Experts have found that some coins have the inscription 'Mahogany Khan' on the back, and it is likely that they were minted during the time of Suleyman bin Yusuf, who ascended the throne of the Great Khan in 1032. There have been many explanations about the meaning of 'peach blossom stone'. In the 1980s, historian Zhang Xun proposed that 'peach blossom stone' means 'Great Khan' in Chinese. Later scholars proposed on this basis, 'peach blossom stone' means 'big Han'. Tian Weijiang, a researcher at the Xinjiang Academy of Social Sciences, believes that 'although each has its own meaning, they all refer to China.' The so-called 'peach blossom stone' in the Qarakhan Dynasty also implies the meaning of 'great and ancient', which should be derived from the name of 'powerful China in the East'. Therefore, 'Mahogany Khan' is also often used as a title for khans, meaning 'Khan of an ancient and powerful country.' 'Peach Blossom Stone', this beautiful name, deeply explains the historical understanding of the Western regions to the Central Plains, reflecting the close connection between the Western regions and the Central Plains."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "chinese": "冬",
+    "level": "First-level word",
+    "stroke": 5,
+    "structure": "Up and down structure",
+    "radical": "夂",
+    "syllables": [
+      {
+        "spell": "dōng",
+        "zhExplain": "一年四季中的最后一个季节，位于秋之后，春之前。",
+        "enExplain": "The last season in the four seasons of the year, coming after autumn and before spring.",
+        "words": [
+          {
+            "zhWord": "冬天",
+            "enWord": "winter",
+            "zhSentence": "冬天很冷。",
+            "enExplanation": "Winter is very cold.",
+            "culture": "The Winter Solstice is one of the 24 solar terms in China, and on this day, people usually eat dumplings."
+          },
+          {
+            "zhWord": "冬泳",
+            "enWord": "Winter swimming",
+            "zhSentence": "我的父亲喜欢冬泳。",
+            "enExplanation": "My father enjoys winter swimming.",
+            "culture": "Lidong is one of the 24 solar terms in China, and on this day, winter swimming enthusiasts in Beijing will go swimming to celebrate the arrival of winter."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "chinese": "读",
+    "level": "First-level word",
+    "stroke": 10,
+    "structure": "Left and right structure",
+    "radical": "言",
+    "syllables": [
+      {
+        "spell": "dú",
+        "zhExplain": "表示阅读或说等含义。",
+        "enExplain": "to read, to speak",
+        "words": [
+          {
+            "zhWord": "读书",
+            "enWord": "read a book",
+            "zhSentence": "麦克很喜欢读书。",
+            "enExplanation": "Mike really enjoys reading books.",
+            "culture": "Confucius founded the Confucian school, which highly esteems reading."
+          },
+          {
+            "zhWord": "朗读",
+            "enWord": "read aloud",
+            "zhSentence": "朗读可以使人更有勇气。",
+            "enExplanation": "Reading aloud can make a person more courageous.",
+            "culture": "Almost every Chinese child is required to read aloud from 'The Standards for Being a Good Student and Child'."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "chinese": "安",
+    "level": "First-level word",
+    "stroke": 6,
+    "structure": "Up and down structure",
+    "radical": "宀",
+    "syllables": [
+      {
+        "spell": "ān",
+        "zhExplain": "平静、安定、安全",
+        "enExplain": "Calm, stable, and safe",
+        "words": [
+          {
+            "zhWord": "安全",
+            "enWord": "secure",
+            "zhSentence": "中国很安全。",
+            "enExplanation": "China is very safe.",
+            "culture": "The concept of safety is highly valued in Chinese culture, emphasizing social harmony and personal well-being."
+          },
+          {
+            "zhWord": "安静",
+            "enWord": "quiet",
+            "zhSentence": "这个女孩很安静。",
+            "enExplanation": "This girl is very quiet.",
+            "culture": "In Chinese culture, quietness is often associated with inner peace and is considered a virtue, especially in contrast to the hustle and bustle of modern life."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "chinese": "把",
+    "level": "First-level word",
+    "stroke": 7,
+    "structure": "Left and right structure",
+    "radical": "手（扌）",
+    "syllables": [
+      {
+        "spell": "bǎ",
+        "zhExplain": "握持、执，后引申为把守、控制。",
+        "enExplain": "Grip, hold, later extended to guard, control.",
+        "words": [
+          {
+            "zhWord": "把握",
+            "enWord": "grasp",
+            "zhSentence": "希望你把握住这次机会。",
+            "enExplanation": "I hope you seize this opportunity.",
+            "culture": "In Chinese culture, the concept of '把握' is often used to encourage someone to take hold of opportunities that come their way."
+          },
+          {
+            "zhWord": "把住",
+            "enWord": "guard",
+            "zhSentence": "把住这棵树。",
+            "enExplanation": "Hold onto this tree.",
+            "culture": "The phrase '把住' is commonly used to instruct someone to hold firmly onto something, often for safety or stability."
+          }
+        ]
+      },
+      {
+        "spell": "bà",
+        "zhExplain": "器物上便于用手拿的部分，或者植物上支持着一个或多个叶片、花朵或果实的柄。",
+        "enExplain": "The part of an object that is easy to hold by hand, or the stem on a plant that supports one or more leaves, flowers, or fruits.",
+        "words": [
+          {
+            "zhWord": "刀把儿",
+            "enWord": "knife handle",
+            "zhSentence": "这是刀把儿。",
+            "enExplanation": "This is a knife handle.",
+            "culture": "In Chinese, '刀把儿' refers to the handle of a knife, which is an essential part for grip and control when using the knife."
+          },
+          {
+            "zhWord": "话把",
+            "enWord": "pretext for attack",
+            "zhSentence": "被人抓住了话把。",
+            "enExplanation": "Someone caught the conversation.",
+            "culture": "The term '话把' is used to describe a situation where someone has been caught off guard in a conversation, which can be used against them."
+          }
+        ]
+      },
+      {
+        "spell": "pá",
+        "zhExplain": "搔，同“爬”，或者表“姓”。",
+        "enExplain": "Scratch, climb, or indicate surname.",
+        "words": [
+          {
+            "zhWord": "爬树",
+            "enWord": "climb a tree",
+            "zhSentence": "孩子们喜欢爬树。",
+            "enExplanation": "Children like to climb trees.",
+            "culture": "Climbing trees is a common childhood activity that symbolizes adventure and the spirit of exploration in Chinese culture."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "chinese": "爱",
+    "level": "First-level word",
+    "stroke": 13,
+    "structure": "Up and down structure",
+    "radical": "心",
+    "syllables": [
+      {
+        "spell": "ài",
+        "zhExplain": "对某人或某事物有深厚的感情。",
+        "enExplain": "to love, to be fond of",
+        "words": [
+          {
+            "zhWord": "爱情",
+            "enWord": "love",
+            "zhSentence": "他们的爱情故事感动了很多人。",
+            "enExplanation": "Their love story touched many people.",
+            "culture": "In Chinese culture, love stories like Chang'e flying to the moon are well-known and symbolize the longing for love."
+          },
+          {
+            "zhWord": "爱好",
+            "enWord": "hobby",
+            "zhSentence": "她的爱好是画画。",
+            "enExplanation": "Her hobby is painting.",
+            "culture": "Hobbies are an important part of personal culture and can reflect one's interests and passions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "chinese": "都",
+    "level": "First-level word",
+    "stroke": 10,
+    "structure": "Left and right structure",
+    "radical": "阝",
+    "syllables": [
+      {
+        "spell": "dū",
+        "zhExplain": "用于表示大城市、首都、都城等。",
+        "enExplain": "capital, city, metropolis",
+        "words": [
+          {
+            "zhWord": "首都",
+            "enWord": "capital",
+            "zhSentence": "中国的首都是北京。",
+            "enExplanation": "The capital of China is Beijing.",
+            "culture": "China's capital is home to many World Cultural Heritage sites, such as the Forbidden City, the Great Wall, and the Summer Palace."
+          }
+        ]
+      },
+      {
+        "spell": "dōu",
+        "zhExplain": "用作副词，表示全部、都。",
+        "enExplain": "all, entirely, altogether",
+        "words": [
+          {
+            "zhWord": "全都",
+            "enWord": "all",
+            "zhSentence": "这些苹果全都是我的。",
+            "enExplanation": "These apples are all mine.",
+            "culture": "In order for every country to develop better, China has been striving to build a community with a shared future for mankind."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "chinese": "安",
+    "level": "一级词汇",
+    "stroke": 6,
+    "structure": "上下结构",
+    "radical": "宀",
+    "syllables": [
+      {
+        "spell": "ān",
+        "zhExplain": "平静、安定、安全",
+        "enExplain": "穏やか、安定的、安全",
+        "words": [
+          {
+            "zhWord": "安全",
+            "enWord": "安全",
+            "zhSentence": "中国很安全。",
+            "enExplanation": "中国は非常に安全です。",
+            "culture": "中国文化では、安全の概念が高く評価されており、社会の調和と個人の幸福を強調しています。"
+          },
+          {
+            "zhWord": "安静",
+            "enWord": "静か",
+            "zhSentence": "这个女孩很安静。",
+            "enExplanation": "この少女はとても静かです。",
+            "culture": "中国文化では、静かさが内面的平和と関連付けられており、特に現代生活の忙しさと対比して、徳と見なされています。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "chinese": "安",
+    "level": "mot de premier niveau",
+    "stroke": 6,
+    "structure": "structure en haut et en bas",
+    "radical": "宀",
+    "syllables": [
+      {
+        "spell": "ān",
+        "zhExplain": "平静、安定、安全",
+        "enExplain": "calme, stable, et sûr",
+        "words": [
+          {
+            "zhWord": "安全",
+            "enWord": "sécurité",
+            "zhSentence": "中国很安全。",
+            "enExplanation": "La Chine est très sûre.",
+            "culture": "Le concept de sécurité est très valorisé dans la culture chinoise, soulignant l'harmonie sociale et le bien-être personnel."
+          },
+          {
+            "zhWord": "安静",
+            "enWord": "tranquille",
+            "zhSentence": "这个女孩很安静。",
+            "enExplanation": "Cette fille est très tranquille.",
+            "culture": "Dans la culture chinoise, le calme est souvent associé à la paix intérieure et est considéré comme une vertu, surtout en contraste avec le tumulte de la vie moderne."
+          }
+        ]
+      }
+    ]
+  }
+]
